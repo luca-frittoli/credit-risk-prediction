@@ -53,7 +53,7 @@ The full reasoning, results table and next steps are in the one-page report [`do
 ```bash
 python -m venv venv
 source venv/bin/activate        # on Windows: venv\Scripts\activate
-pip install fastapi uvicorn joblib pandas scikit-learn requests
+pip install -r requirements.txt
 ```
 
 Use the scikit-learn version the model was trained with to avoid errors when loading `model.pkl`.
