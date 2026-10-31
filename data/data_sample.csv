@@ -1,0 +1,500 @@
+loan_id,loan_issue_date,loan_amount,amount_outstanding_14d,amount_outstanding_21d,card_expiry_month,card_expiry_year,existing_debt,num_active_loans,days_since_first_loan,new_exposure_7d,new_exposure_14d,num_confirmed_payments_3m,num_confirmed_payments_6m,num_failed_payments_3m,num_failed_payments_6m,num_failed_payments_1y,amount_repaid_14d,amount_repaid_1m,amount_repaid_3m,amount_repaid_6m,amount_repaid_1y,merchant_group,merchant_category
+a55cf3062bd45a83766096fd0c4697d6,2023-06-24,5300,0,0,2,2026,21098,2,717,0,0,20,36,0,0,0,6875,15580,42325,67878,152193,Clothing & Shoes,Adult Shoes & Clothing
+45e3d15cb313d767470722e952e14313,2023-09-22,9547,7161,7161,6,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+b195c127c7605b7b936b90bcdb5e889c,2023-07-03,5948,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+36028b1dbeb4aeef565a79ca9700667a,2023-08-19,15871,11904,0,2,2026,31742,1,0,15871,15871,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+5317f8e22a8f790b6e11a0f12320422d,2023-09-30,19510,0,0,8,2026,9064,1,501,0,8586,14,26,0,0,0,6511,14000,32289,61993,116532,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+db9fce76456e79737ad5fb120b77fced,2023-10-03,38305,0,0,9,2025,0,0,546,0,0,0,8,0,0,0,0,0,0,15386,79892,Clothing & Shoes,Adult Shoes & Clothing
+c7c3a8bf87bba0fae8009f795ee4a18c,2023-10-27,6120,0,0,6,2030,12240,0,199,0,0,6,11,0,0,0,1223,2446,10630,16997,20937,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+bcaa16391c5c12b9e2d145f543742ccb,2023-10-03,3658,0,0,10,2028,7316,1,116,3658,3658,9,13,0,0,0,0,2520,21566,28317,28317,Clothing & Shoes,General Shoes & Clothing
+bea984a75f214b5cd8a6b8b3f2a241a0,2023-10-09,24587,0,0,5,2025,0,0,621,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+e466816902e6048fb3a3e96ff35bb01f,2023-07-07,22050,0,0,3,2027,20700,1,125,10350,10350,4,12,0,0,0,0,0,4150,20684,20684,Clothing & Shoes,General Shoes & Clothing
+8db857e3f6c7ffedd4532d6b4b386b62,2023-06-18,25497,0,0,10,2025,0,0,21,0,0,2,2,0,0,0,4715,9429,9429,9429,9429,Clothing & Shoes,Youthful Shoes & Clothing
+f2e83d9cfd0f8268c0935600741cd81a,2023-07-25,78088,0,0,2,2024,0,0,963,0,0,0,0,0,0,0,0,0,0,0,76773,Clothing & Shoes,General Shoes & Clothing
+7c91898dd3faebd072dadc6163c64019,2023-07-20,5533,0,0,10,2025,15826,1,82,10550,10550,6,6,0,0,0,2637,4137,7935,7935,7935,Jewelry & Accessories,Jewelry & Watches
+08e09e2487f2d5ee3cc5fa61ede60abb,2023-06-23,2483,0,0,12,2025,5818,1,862,3878,3878,1,4,0,0,0,969,969,969,6344,8135,Clothing & Shoes,Youthful Shoes & Clothing
+7eea2eaf85170c957ebaf34b14ae8969,2023-10-19,81800,0,0,3,2027,0,0,139,0,0,0,4,0,0,0,0,0,0,17559,17559,Children Products,Children Clothes & Nurturing Products
+57a4b8561d30a9a6c18f65fa87d27800,2023-10-20,44384,0,0,8,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Hobby Articles
+ee8bd1062a9db694f780c89ffeb28a85,2023-06-27,17394,0,0,9,2023,0,0,578,0,0,3,5,0,0,0,0,0,12685,15445,23704,Clothing & Shoes,General Shoes & Clothing
+16919070826874d9b90174e2fa170a2d,2023-10-23,5022,0,0,1,2024,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Food & Beverage,Food & Beverage
+adecf89aa21d5e2d92bc212b17150518,2023-07-23,8949,0,0,9,2027,0,0,623,0,0,10,16,0,0,2,0,0,24023,32400,41800,Clothing & Shoes,Youthful Shoes & Clothing
+605e351efdeaf1b24da9ec69f44871b6,2023-06-19,21060,0,0,3,2027,42120,1,0,21060,21060,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+913928517bcede42bdbe89306efe016c,2023-10-14,6900,0,0,3,2027,10400,2,952,4200,4200,0,4,0,0,0,0,0,0,4500,4500,Food & Beverage,Food & Beverage
+d2a56b441f227a081367c00d31afbbfe,2023-08-24,12981,0,0,4,2028,96892,1,10,0,96892,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+cb7684f9f55a8da592e4cae775d03dd0,2023-07-21,4922,2462,0,6,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+73c97efb94b597156d36ba97555812b3,2023-06-18,8374,0,0,11,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+740ffe08fc27e26fa60a313d2d8aeb58,2023-07-01,3623,0,0,7,2026,15768,2,1043,3623,3623,5,19,0,0,0,1739,3739,9393,23737,41330,Home & Garden,Furniture
+4ef1abb70ab8efca505a60deaebf81c9,2023-07-13,8267,0,0,8,2025,6386,1,452,0,0,7,11,0,0,0,3193,6386,19646,29713,78356,Clothing & Shoes,General Shoes & Clothing
+87e4acfb6eef60a23ccf9f1d09487b81,2023-09-17,16317,0,0,7,2025,0,0,486,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+09406b0e3b2f992b7f849dc82647f923,2023-06-02,2625,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+eb78b2106802c354e4e58869a83946fd,2023-09-27,7950,0,0,8,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+07e503b07559d45768b932f9d9cdb2b3,2023-10-27,13085,0,0,2,2025,0,0,562,0,0,4,4,0,0,2,5764,8646,11727,11727,33122,Intangible products,Event - Broker & Agencies
+3ee8e1aeec4358399549af45d9e57f49,2023-09-30,8105,0,0,12,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+c653e88b00f955eea82fb3dc9be20007,2023-06-24,19951,0,0,5,2028,0,0,460,0,0,5,8,0,0,0,0,0,12176,23578,31993,Clothing & Shoes,Youthful Shoes & Clothing
+3588081d16de6e59dc10058a50efe01f,2023-07-18,14840,0,0,2,2026,0,0,496,0,0,8,8,0,0,0,1961,3922,7844,7844,19504,Clothing & Shoes,Adult Shoes & Clothing
+f8026e56e3c5908f2b63469ead1bddc6,2023-06-02,3730,0,0,10,2023,0,0,98,0,0,7,8,0,0,0,720,1439,11392,14230,14230,Clothing & Shoes,Adult Shoes & Clothing
+2164c43e42d600fc8ebcf5d6b085b0ab,2023-07-17,4040,0,0,1,2027,0,0,114,0,0,10,12,0,0,0,0,6549,28778,33940,33940,Clothing & Shoes,Youthful Shoes & Clothing
+4a6d1c73435dae9f9c50ca34c0d7a17c,2023-09-18,2223,0,0,11,2026,15414,3,64,0,4963,8,8,0,0,0,3231,6519,10410,10410,10410,Clothing & Shoes,General Shoes & Clothing
+07dded3bd113bc276c81b9471a1e3efc,2023-07-23,13125,3282,0,7,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Food & Beverage,Food & Beverage
+32ce07942692204dec08cb339dae079b,2023-06-09,13000,0,0,3,2025,32400,1,351,21600,21600,1,6,0,0,0,5400,5400,5400,18700,32775,Clothing & Shoes,General Shoes & Clothing
+bbf7cf0cde0603719dc622004cdded8b,2023-06-27,10820,3608,3608,11,2027,0,0,453,0,0,1,2,0,0,4,0,0,7908,21222,43251,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+c8da20927e2aca51ef02c4e511936457,2023-09-07,4213,0,0,5,2031,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+56cce0079bb9f2096db56f421c51ec77,2023-09-13,7383,0,0,1,2025,0,0,392,0,0,8,12,0,0,0,2342,10569,32903,50486,212511,Clothing & Shoes,Adult Shoes & Clothing
+d08d39eff8b0e1cda2088915376d751f,2023-10-03,8937,0,0,5,2026,9146,2,95,0,0,37,38,0,0,0,20420,48239,85633,86905,86905,Clothing & Shoes,General Shoes & Clothing
+e83642d8da787e432401742f293c5c6e,2023-09-12,10895,0,0,6,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+ecbcc54f07045f309189e604f5f42f17,2023-06-26,19541,0,0,8,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+8ae5df8553eb0fe1a8813deb96fa7c46,2023-10-26,11360,0,0,2,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+a9dd952a3f701d3d377e28fe668f5be6,2023-07-17,17750,0,0,5,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+08a892d91b8104960c57ff97ee1b890e,2023-07-08,27155,0,0,7,2025,78534,2,897,39267,39267,4,6,0,0,0,0,0,25209,44504,273935,Clothing & Shoes,Youthful Shoes & Clothing
+3df01c6687e2d8b5a8a8b9d0ed6e76d9,2023-09-12,5541,0,0,2,2024,0,0,109,0,0,1,3,0,2,2,0,0,16612,32524,32524,Clothing & Shoes,Youthful Shoes & Clothing
+96a228f555bf6b8bffde0e887b5594da,2023-09-21,3211,0,0,11,2024,7438,1,33,0,0,3,3,0,0,0,3719,7438,11156,11156,11156,Clothing & Shoes,General Shoes & Clothing
+e13521b9f91b800eb71bd8c14f213329,2023-09-16,5860,0,0,6,2024,13464,3,765,0,0,23,43,0,0,0,9314,19871,55804,92193,250894,Clothing & Shoes,General Shoes & Clothing
+b083f55b50ce339800d37e74540d2d61,2023-08-26,9608,4804,4804,8,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+3df85c04ba3e1b49b8de8e38ff17297e,2023-07-16,31795,0,0,7,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+6829aa50ebbfe4ee4b9853d06a6ab08e,2023-09-24,18246,0,0,11,2027,0,0,282,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+09745e87014ba0372b9f8bf81f561708,2023-10-24,48374,11489,0,10,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+eefef0afeeb3093fd7af72b81addf506,2023-09-17,3398,0,0,2,2027,16824,1,578,11215,11215,10,17,0,0,0,2803,7401,22443,34508,57280,Clothing & Shoes,General Shoes & Clothing
+41a4f590700c55530211cefa92cabc94,2023-07-15,23849,5963,0,6,2027,0,0,982,0,0,2,5,0,0,0,0,0,6750,18500,62599,Home & Garden,Furniture
+8a5c41a47b4221b653df44805deca828,2023-10-15,9932,0,0,11,2025,0,0,85,0,0,4,4,0,0,0,0,0,28562,28562,28562,Clothing & Shoes,Youthful Shoes & Clothing
+00491248ad2fd140d292602ba8ebfa9d,2023-06-09,31246,0,0,3,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Furniture
+63f2ccbbda1e71571a7df748fc820de7,2023-10-13,16229,0,0,7,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+a601d8364e2bacbb6af63578fb0cc12d,2023-06-16,8490,0,0,4,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Jewelry & Watches
+ed0cfd419dde623992657be1d6eeb394,2023-06-14,9655,0,0,10,2026,1074,1,374,0,0,3,6,0,2,2,537,1073,1609,14189,26951,Jewelry & Accessories,Diversified Jewelry & Accessories
+5c600a4e34bf2e9b19e90cb5fa057bf5,2023-07-27,4658,0,0,3,2028,0,0,631,0,0,0,3,0,0,0,0,0,0,7062,84038,Clothing & Shoes,General Shoes & Clothing
+26cbb148f45342f50f1d1bbd2b037adb,2023-10-11,51894,0,0,12,2024,145828,1,7,0,97218,1,1,0,0,0,24304,24304,24304,24304,24304,Intangible products,Event - Broker & Agencies
+1d92c7864f06bd7e74d61246bfe42b64,2023-10-22,8520,1421,0,11,2027,0,0,1076,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Diversified Home & Garden Products
+af05c1aa5f3415e97b9f8b58f76a023b,2023-10-09,18000,0,0,3,2024,89926,1,17,0,0,1,1,0,0,0,0,5601,5601,5601,5601,Food & Beverage,Food & Beverage
+84bd4742e0e35882fc7e29416da138bd,2023-07-10,8753,0,0,3,2028,0,0,111,0,0,2,4,0,0,0,0,0,2986,5971,5971,Jewelry & Accessories,Diversified Jewelry & Accessories
+7ec92c403c7cf4b37b7169f8677bfb0c,2023-10-20,21867,5467,0,4,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+c794aee999d1798edec8f9c3b3e230c3,2023-08-05,5403,1120,0,3,2025,18278,5,29,0,14462,10,10,0,0,0,10384,19247,19247,19247,19247,Clothing & Shoes,Adult Shoes & Clothing
+7a325a6d521183e03119e667f031b4ad,2023-07-20,8103,2026,2026,5,2029,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+2be869c5b526bc71bd760c7c4b7b48ba,2023-08-01,8639,2160,0,6,2027,11946,1,582,7964,7964,2,2,0,0,0,4433,4433,4433,4433,92741,Clothing & Shoes,General Shoes & Clothing
+7fc55fc8b21e3ece91218c656a6e8163,2023-09-29,16271,0,0,5,2026,0,0,307,0,0,21,34,4,10,12,0,0,47973,69738,103017,Clothing & Shoes,Youthful Shoes & Clothing
+9af032e70fbcc2bb8e219ef76a9790c5,2023-10-01,21547,0,0,11,2027,15974,1,566,0,0,6,6,0,0,0,7587,15174,22362,22362,22362,Jewelry & Accessories,Non-Prescription Sunglasses & Contact Lenses
+5f6a09ce0bdf74d72cedceccb390e337,2023-10-02,10343,0,0,7,2027,0,0,296,0,0,4,10,0,0,0,0,1816,10890,37051,105433,Clothing & Shoes,General Shoes & Clothing
+e44ab1540a11d303eaf13443a05af23a,2023-07-20,6734,0,0,3,2024,0,0,389,0,0,0,0,0,0,0,0,0,0,0,2996,Clothing & Shoes,General Shoes & Clothing
+c5d92807dd4ca6a5ccf4734e103e01b6,2023-07-29,9760,0,0,1,2026,19520,1,733,9760,9760,4,4,0,0,0,0,1813,7251,7251,69462,Clothing & Shoes,General Shoes & Clothing
+cb8bd37053750b559db9dec41c070fa1,2023-06-18,9565,4783,4783,9,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+562fb497eec994df65b7e0dbde8db9a6,2023-09-28,26322,0,0,1,2028,0,0,90,0,0,8,8,0,0,0,0,0,51182,51182,51182,Clothing & Shoes,General Shoes & Clothing
+def50230144a672f5020bf9a3e98562a,2023-09-23,4399,0,0,12,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Electronics,Electronic Equipment & Related Accessories
+5f3b4be848419da0c9fa1907cbdc470c,2023-10-16,45475,0,0,11,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+5aa0be5650e54ea2a5c152907157f886,2023-07-12,7422,0,0,3,2027,0,0,220,0,0,9,15,0,0,0,0,0,24641,37632,63426,Clothing & Shoes,General Shoes & Clothing
+dfa43b1e4d7a234757bd192b67544943,2023-09-30,23085,0,0,9,2029,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Health & Beauty,Body & Haircare
+b4d9de8c14b90fcdc62f8568913878c2,2023-09-26,7159,1790,0,9,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+318b762a58e1c751c8454fed8a9d6c41,2023-08-14,4182,0,0,6,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Pet Supplies
+88e21323bba5980ded8c627cc79dd92a,2023-08-26,2099,0,0,3,2026,0,0,205,0,0,3,3,2,2,2,2042,6122,12242,12242,12242,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+af46c692a95018ab63840da54de6ff47,2023-10-23,16119,0,0,10,2026,58582,2,59,0,39053,6,6,0,0,0,13623,17484,25204,25204,25204,Clothing & Shoes,General Shoes & Clothing
+691813b92ab6d4878d2bb47deac723e1,2023-06-02,14636,0,0,9,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+6b0b28d7d027e160c7adda8ec428cfae,2023-10-11,11299,0,0,5,2025,0,0,764,0,0,4,4,0,0,0,0,4617,18468,18468,18468,Jewelry & Accessories,Non-Prescription Sunglasses & Contact Lenses
+d3da9446b157fa73ab1102591d8c3d80,2023-07-27,8171,0,0,7,2027,0,0,156,0,0,25,52,0,0,0,1575,7304,53820,98952,98952,Clothing & Shoes,General Shoes & Clothing
+7f5e4881e0a1988b922ff4b0af176d7c,2023-10-13,6190,0,0,11,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+ecbe05605fd34365387fd39336c4a92f,2023-08-21,11103,0,0,6,2026,0,0,53,0,0,8,8,0,0,0,11457,22914,45824,45824,45824,Clothing & Shoes,Youthful Shoes & Clothing
+de7f5325c902b356b90d0d11ac6804e2,2023-08-01,9793,0,0,9,2025,0,0,112,0,0,0,2,0,0,0,0,0,0,6899,6899,Clothing & Shoes,Adult Shoes & Clothing
+bb3aac3be273a46962d05d53ae90050b,2023-07-26,27524,0,0,7,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+8dbbf5f971d3aebdcb09c48ba0f41396,2023-10-24,94173,0,0,4,2027,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+effe08952f0071db959bd0b12deafe3c,2023-10-10,43859,0,0,3,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+3cdf35240f7f9ff99afdc956182da251,2023-08-17,99950,0,0,4,2025,0,0,636,0,0,3,15,0,0,0,0,0,6656,40128,111235,Intangible products,Travel - Accommodation & Resorts
+8b784dbbf8212c81c932d27b0679d803,2023-07-29,10800,0,0,8,2027,29250,2,13,19949,26148,2,2,0,0,0,11523,11523,11523,11523,11523,Clothing & Shoes,General Shoes & Clothing
+42d7dc1863b7f6e3e3122eacfb4aed8c,2023-09-29,17686,0,0,8,2026,35512,4,106,0,0,31,34,0,0,0,12832,33447,75742,83214,83214,Jewelry & Accessories,Diversified Jewelry & Accessories
+d2298e8d809f1f7cd5a954e6f3c7c30b,2023-09-09,9527,0,0,9,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+cfddcbfa02a2abf3f1cbc6ea0d35883b,2023-08-15,11238,0,0,6,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+3fd176705956d197b8b0a5bd7fdf5378,2023-06-29,2919,0,0,12,2023,4164,1,797,0,0,3,7,0,0,0,1041,2082,2852,8543,22073,Clothing & Shoes,Youthful Shoes & Clothing
+d2fb1c878a5f488371ba9195825d789f,2023-06-09,11727,0,0,5,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+a4c17218c50e941a084de25c920058bb,2023-08-09,16570,0,0,11,2028,33140,1,0,16570,16570,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+40a9231b96b8f19e1c9f4db8e490a988,2023-09-30,5999,0,0,10,2025,0,0,457,0,0,0,1,0,0,7,0,0,0,2574,15766,Clothing & Shoes,General Shoes & Clothing
+be1c01644ba32b41fc380400d3f3a8bc,2023-08-31,89430,0,0,9,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+1fc5cf01356f009241c17fb39075d71c,2023-10-13,6803,0,0,8,2028,5752,0,76,0,0,3,3,0,0,0,0,0,2876,2876,2876,Clothing & Shoes,Youthful Shoes & Clothing
+f09bcbd403a7a819e9fd8a3f5fe4296c,2023-08-13,3732,0,0,10,2024,0,0,468,0,0,4,4,0,0,0,1651,3302,6604,6604,8332,Clothing & Shoes,General Shoes & Clothing
+67579bc927ae525bcdc1eab7e8e8ddcc,2023-09-30,9999,0,0,7,2027,0,0,758,0,0,0,16,0,0,0,0,0,0,26822,26822,Electronics,Diversified Electronics
+cf44107c71824e40537452f91d6e5291,2023-09-20,6949,0,0,8,2027,0,0,487,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Non-Prescription Sunglasses & Contact Lenses
+61be3daafc145b0753bf1bb26fe888b2,2023-10-27,26053,6514,0,8,2027,0,0,254,0,0,0,0,0,0,0,0,0,0,0,4357,Intangible products,Event - Broker & Agencies
+76ad3f8b141477e4757910014039dd86,2023-10-09,12198,0,0,8,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+1180547090ee2802330af93ba6409d33,2023-09-14,4999,0,0,7,2026,26444,2,619,13222,13222,0,8,0,0,0,0,0,0,27280,43700,Clothing & Shoes,Adult Shoes & Clothing
+11c7e06c3fe82e54dbe0d060c0c517bb,2023-06-28,2274,0,0,11,2026,11800,1,286,0,7866,1,2,0,0,2,1966,1966,1966,2466,15522,Clothing & Shoes,General Shoes & Clothing
+16cb88514ff3b62221e38adda5c67a5a,2023-08-14,10641,0,0,3,2028,0,0,943,0,0,6,6,0,0,0,0,2417,13534,13534,13534,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+70534e894d29ce456bf3c3c46f67c37d,2023-07-03,10780,0,0,7,2025,0,0,481,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+c4f81588118596faf1b3cb56094520ec,2023-08-25,4134,0,0,4,2024,0,0,469,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+587c48c836f643ff5ba0d45985abbf80,2023-10-17,7536,0,0,8,2028,34978,1,340,23318,23318,11,27,0,0,0,5829,10218,40444,97751,114128,Electronics,Diversified Electronics
+2afb8eee29add15a02112d33f5eb5f57,2023-10-25,5446,0,0,11,2026,300,0,86,0,0,4,4,0,0,0,0,0,26499,26499,26499,Clothing & Shoes,General Shoes & Clothing
+bf91628ee92fb44871d8044be7d82685,2023-07-02,29700,0,0,11,2023,0,0,200,0,0,0,5,0,0,0,0,0,0,10610,15981,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+b34a868db065a697a0ca1493336547a5,2023-09-28,10980,0,0,6,2026,21960,1,292,10980,10980,0,0,0,0,0,0,0,0,0,14703,Intangible products,Education
+7bb71167da1b816ac840b253775c4c82,2023-06-03,63293,0,0,7,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+14d81dbb6ecdabfe1763d62c7bd87cf5,2023-09-02,14097,0,0,4,2026,0,0,71,0,0,4,4,0,0,0,0,1539,6155,6155,6155,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+59dc597de9706ff22de8236f701aadb9,2023-06-11,12637,0,0,4,2028,15314,1,348,0,0,21,45,3,3,11,0,21275,62875,157051,272636,Health & Beauty,Body & Haircare
+1ec58d151a8ffe3262bc9f20e9025838,2023-09-13,7916,0,0,9,2028,2268,1,227,0,0,3,3,0,0,0,1133,2266,3866,3866,3866,Clothing & Shoes,Adult Shoes & Clothing
+ce8e66fafd592e791527ce685eab6226,2023-08-30,4278,0,0,10,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+ccac1864a35d03222ce65d90b00ed741,2023-08-26,16508,0,0,7,2028,33016,1,0,16508,16508,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+66d6081b60ad38c101cbfa9756601f8b,2023-10-11,15626,0,0,9,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+9e89e2423fb09abf9b82c00c8a35836c,2023-06-01,23538,0,0,9,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+ad785d7ec272bce2b3ea85bb07d90c76,2023-08-12,11915,0,0,7,2024,23830,1,123,11915,11915,1,4,0,0,0,0,0,4509,18035,18035,Intangible products,Event - Broker & Agencies
+2e9e22c679401ce3508bffa888644f0b,2023-06-27,9752,0,0,5,2030,0,0,224,0,0,10,18,0,0,0,0,1491,43405,66906,86279,Clothing & Shoes,General Shoes & Clothing
+d6e471ea61831def81e5b5d42ca3bc05,2023-06-08,5595,0,0,5,2027,16098,1,150,0,10932,1,1,0,0,0,2883,2883,2883,2883,2883,Clothing & Shoes,Adult Shoes & Clothing
+998905499f60076af3b6f4ec922e02a2,2023-06-05,14305,0,0,10,2025,36060,1,18,0,0,2,2,0,0,0,9014,18028,18028,18028,18028,"Leisure, Sport & Hobby",Musical Instruments & Equipment
+973d07381cac9eb75429e3d63a2573c7,2023-06-05,12291,0,0,12,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+a1cd34d2aea44afede426769a1cfa8ae,2023-09-30,5553,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+1a78c3c0b2b983e57c33b90a0e2439b8,2023-09-28,5063,0,0,11,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+e887ee0e0b77115c5e3ad527c6fe5ee2,2023-09-12,13374,0,0,4,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event Tickets
+c4c9d52f5b93f4300e4afa39d4b48c20,2023-06-10,21200,0,0,9,2026,0,0,925,0,0,16,28,0,0,0,0,0,30527,56534,56534,Health & Beauty,Body & Haircare
+61207e17344aa649bb76cb41fd2557a7,2023-10-25,32863,0,0,8,2031,131452,2,0,65726,65726,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+ba33be0c6e92add778c1a39b96afc514,2023-08-05,34275,0,0,6,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+1999c4fe8c5f69b63598ace0e192e67f,2023-09-21,6480,0,0,1,2028,0,0,546,0,0,1,4,0,0,0,0,0,3068,18405,72571,Clothing & Shoes,General Shoes & Clothing
+812599608280e6327fcf6561b5b8783b,2023-09-21,7234,0,0,5,2028,2,0,873,0,0,6,12,0,0,0,4295,8590,25552,37395,44377,Clothing & Shoes,General Shoes & Clothing
+03a7efa224b3eed32b0bccca03775d34,2023-09-14,14543,0,0,12,2027,0,0,8,0,0,2,2,0,0,0,8347,8347,8347,8347,8347,Clothing & Shoes,Youthful Shoes & Clothing
+43eb4b16c3082ecb2c5e3d6f5c6bbb6c,2023-10-04,34133,8534,8534,8,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+ae28028df71e80a57d13a6570c5ef1fb,2023-07-20,21294,0,0,2,2027,0,0,1047,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+2289a1654a63e4ca18f39dd52eabc767,2023-06-22,15896,0,0,8,2025,0,0,205,0,0,2,4,0,0,0,0,2795,2795,12683,32456,Clothing & Shoes,General Shoes & Clothing
+8a43f6a0fae918da79bf0ace77fde7f6,2023-10-11,16960,0,0,6,2026,25440,1,759,16960,16960,5,9,0,0,0,4240,8480,21200,33100,72850,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+31db51c566e7f24ff16bd6e695e8f72e,2023-07-30,127118,0,0,5,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+b0a0b900afee98c3a6367c5c02455a85,2023-07-03,12800,0,0,4,2025,0,0,584,0,0,0,0,0,0,0,0,0,0,0,0,Electronics,Electronic Equipment & Related Accessories
+bb2a7610dec80ebcc49726ad363e306e,2023-09-23,4278,0,0,10,2026,56670,1,39,0,0,3,3,0,0,0,28335,56670,85005,85005,85005,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+9ea069a5660e989123635df84f484c8b,2023-06-26,20282,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+07c1a37e6e6d977a2aa1aba3bfc62a6a,2023-08-24,6375,0,0,5,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Other Services
+fa85f1b6e12f18fdc9ff341b59585e16,2023-06-15,30926,0,0,5,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+504d6b5063dd0cf7ec02432e6929f0f2,2023-08-14,14478,0,0,2,2025,8426,1,251,0,0,6,6,0,0,0,2106,14855,29487,29487,38964,Clothing & Shoes,Youthful Shoes & Clothing
+6b4b16a5e46ae89a8812b8ab83a6e614,2023-10-01,6429,0,0,7,2025,0,0,923,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+9a0616393b08659ec25f4ad59881f66b,2023-08-21,11192,0,0,10,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+726a9b47cad4c913d0c8e724be9cca3b,2023-08-22,45647,0,0,9,2026,0,0,278,0,0,0,0,0,0,0,0,0,0,0,19451,Intangible products,Travel - Accommodation & Resorts
+526dca8a0f99dc7eabbe5d4d6a7bd01e,2023-09-02,9320,2330,2330,6,2028,0,0,775,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+de62cd409b0b0984ae88f66b7b54649c,2023-07-11,10140,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+a3606b2e6b3fcdebd9b634b0803a59e1,2023-09-30,17520,0,0,6,2027,35040,1,0,17520,17520,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+38796bc449a86faae1cd67457b1f3ad3,2023-08-14,8880,0,0,6,2027,3618,1,1082,0,0,5,7,0,0,0,1809,3618,8677,11927,102391,Clothing & Shoes,General Shoes & Clothing
+97644d7359bd260ae9b24e7fc7be913c,2023-09-29,4509,0,0,7,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Hobby Articles
+7d0878831b6c1b79b6cfddcc2bc0d4a3,2023-07-27,12733,0,0,6,2025,0,0,174,0,0,0,4,0,0,0,0,0,0,20668,20668,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+ceb02dd1496d3214fd41b3140911ccac,2023-08-20,13436,0,0,1,2024,0,0,1018,0,0,1,4,0,0,0,0,0,2922,11688,42774,Clothing & Shoes,Adult Shoes & Clothing
+7a6c4a00bde885d74fe9e3bfaf253a6e,2023-09-24,9548,0,0,11,2024,12144,1,1040,0,8095,1,9,0,0,0,2023,2023,2023,10968,15415,Clothing & Shoes,Adult Shoes & Clothing
+bb295b29c856dfac8c331394f101806e,2023-09-30,36822,27617,27617,7,2025,15894,1,132,10596,10596,18,23,0,0,0,2649,9939,40490,46995,46995,Intangible products,Event Tickets
+664ce5e3a1a4f54917de4d58f7430633,2023-08-18,7073,0,0,5,2027,14146,1,0,7073,7073,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+c8741b10992faba461565b4f6033dcf4,2023-08-28,23514,0,0,6,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+c28aa707d8c4795902219da2cf557a02,2023-09-27,11097,0,0,5,2031,22194,1,135,11097,11097,0,4,0,0,0,0,0,0,11689,11689,Health & Beauty,Dietary Supplements
+704d49ba70be383508decff3f6d66e55,2023-07-15,3582,0,0,5,2026,0,0,761,0,0,0,0,0,0,0,0,0,0,0,3034,Clothing & Shoes,General Shoes & Clothing
+8bf70719b681819e39653b775ea0a47e,2023-07-19,11814,2954,0,7,2025,23628,1,401,11814,11814,16,31,0,0,0,0,0,68860,114645,165563,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+26bd659ba528b715e3732e61ca22f7b0,2023-08-13,13225,0,0,5,2024,0,0,359,0,2250,3,7,0,0,0,2250,2250,2250,21912,52913,Clothing & Shoes,Youthful Shoes & Clothing
+501c36dfbbc02d728d2f0e75851034e3,2023-06-11,4000,0,0,12,2025,7000,1,0,3500,3500,0,0,0,0,0,0,0,0,0,0,Food & Beverage,Food & Beverage
+1c0d0b8ecdaebf3a15ca6067af5fd646,2023-08-05,5500,0,0,4,2028,0,0,876,0,0,9,11,2,2,2,0,0,28465,35165,35165,Food & Beverage,Food & Beverage
+a9c4458d9511690fec228948352be9d5,2023-08-14,10907,0,0,5,2024,27638,2,597,11121,11121,10,12,0,0,0,1349,5211,20878,24832,43658,Home & Garden,Diversified Home & Garden Products
+a016d000139b2cbbf4f255eb631c7156,2023-09-26,25183,0,0,4,2024,0,0,128,0,0,1,4,0,0,0,0,0,16303,65211,65211,Home & Garden,Furniture
+3cf97b4e94f5e9d058e532560491de65,2023-10-11,36527,9132,0,5,2025,0,0,726,0,0,0,5,0,0,0,0,0,0,41756,93123,Home & Garden,Furniture
+cc7bddad7cec75f14fd9e27f4202cdba,2023-08-02,20538,0,0,7,2027,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+6428662c4a9578cc32e17f503a2592e3,2023-08-07,7352,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+af9b46c141458e2225aa7cb921bafd30,2023-07-14,14440,3610,0,3,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+292a213fdddfcc04bd10e9ea111cc433,2023-08-02,9190,2298,2298,11,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+2ee3a57c23dd41755f00989e94315e7a,2023-07-20,5299,1325,0,1,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+761a00e0004940eacf517050260d82a7,2023-09-07,3091,0,0,10,2025,6182,1,452,3091,3091,0,0,0,0,0,0,0,0,0,15325,Clothing & Shoes,Youthful Shoes & Clothing
+d9d326f94f72a8cace7a6e40c26b4d47,2023-10-07,3755,0,0,7,2027,19772,2,15,0,7918,3,3,0,0,0,5859,8468,8468,8468,8468,Clothing & Shoes,Youthful Shoes & Clothing
+cc7aeec087fa18bee5f31b4dfac58f37,2023-09-15,36483,4159,4159,12,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+97c297841f193fcf9791c85614427785,2023-08-17,5223,1306,0,8,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+d8ab947c797af0ceb373a42681dbb829,2023-08-04,10000,0,0,4,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+fcc62821a8cbb655a6d04b474484d05a,2023-07-06,7045,0,0,9,2025,0,0,52,0,0,4,4,0,0,0,4000,8000,16000,16000,16000,Intangible products,Event - Broker & Agencies
+5af0d1275c9eaf19d836e309a6df768a,2023-09-10,3349,0,0,2,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+410d52ed7c23af29a47e925e32052d4e,2023-09-19,6480,0,0,10,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Electronics,Electronic Equipment & Related Accessories
+0e8cbfba5051dc9980b0834d1f9c510d,2023-09-24,24668,0,0,8,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+ae37faa5f0ca311fb6c8ba004f32d78e,2023-09-22,26619,0,0,4,2028,0,0,241,0,0,2,6,0,0,0,0,0,3701,10667,22448,Clothing & Shoes,General Shoes & Clothing
+84ce9a1f4a7502ee94ced154f19f880e,2023-10-13,44500,0,0,8,2025,89000,1,123,44500,44500,5,12,0,0,0,0,0,15840,48693,48693,Intangible products,Event - Organizer
+72d32ca4f8b0d28165289bd505029116,2023-06-11,20400,0,0,9,2024,0,0,106,0,0,7,8,0,0,0,6912,13824,42048,46848,46848,Clothing & Shoes,Adult Shoes & Clothing
+a1b35343c43335847dce614e65c8da0c,2023-06-20,5136,0,0,12,2027,23850,3,116,22562,27336,14,16,0,0,0,26999,59195,70531,93201,93201,Clothing & Shoes,General Shoes & Clothing
+7f66f97a1a564cc0f0bb2b7cbd32b556,2023-08-13,10599,0,0,2,2027,0,0,779,0,0,18,55,0,0,0,0,0,40248,110410,152513,Electronics,Diversified Electronics
+db8d93ee5e50cc12ade2399a8993a7b1,2023-06-22,21094,0,0,8,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Non-Prescription Sunglasses & Contact Lenses
+9a3e18f22f9c47c2b4f5977178059ef2,2023-10-03,4725,0,0,5,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+3ba822b52f5da7323d06731a4b229269,2023-06-25,14794,0,0,5,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+a595bf8b7b49e1e20069ff45ae1bd208,2023-07-27,42735,0,0,6,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+dd50c3f9b809ac8f267bfc9408599fce,2023-08-04,5219,0,0,6,2027,0,0,494,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+30421b829d7d2194859f57524a21d622,2023-06-05,12129,3033,0,12,2024,15938,1,0,7969,7969,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+89f9a276ba940908e8bfcb99ef7f0bae,2023-06-18,15535,0,0,1,2028,54332,3,575,24971,24971,12,18,0,0,0,15042,40593,64168,72473,275206,Jewelry & Accessories,Jewelry & Watches
+d2e5a2d68baf17f1c52cddb472d7bc75,2023-06-18,37051,0,0,3,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+2382a25bb6c3cc1dc30252e256eacd2f,2023-10-18,54035,0,0,6,2027,0,0,979,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+0e9db88d8c71f72382e58e69f47d7de4,2023-06-09,41851,20926,20926,9,2026,0,0,906,0,0,3,3,0,0,16,0,0,9226,9226,77545,Clothing & Shoes,General Shoes & Clothing
+fa1dc48cbca1c56bb5aaf9e96faa1679,2023-07-22,20226,0,0,8,2025,40452,1,0,20226,20226,0,0,0,0,0,0,0,0,0,0,Health & Beauty,Personal Care & Body Improvement
+0929ace235f7f8e801f675df54b08912,2023-08-11,9691,0,0,9,2025,8668,1,462,0,0,27,38,0,0,0,11626,23251,64790,83611,108687,Clothing & Shoes,General Shoes & Clothing
+570a140fdd5df9fffcc6f3c06b6e5a8f,2023-06-24,48671,0,0,4,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+56e6c23d3338f087a2fef780cf1fb1df,2023-10-14,24500,9986,9986,7,2028,2722,0,91,0,0,6,7,0,0,0,0,0,12673,15639,15639,Food & Beverage,Food & Beverage
+1ae6b5a03cbf967a2d3c27d7a6947c8b,2023-08-25,3127,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+8892d36e636d424e8ad761579a000cc8,2023-08-31,5724,0,0,7,2024,11448,1,759,5724,5724,0,0,0,0,0,0,0,0,0,7811,Clothing & Shoes,Youthful Shoes & Clothing
+1fde0563d117a1e44e03afadd3e6d591,2023-07-01,2984,0,0,3,2024,10220,3,84,0,0,10,10,0,0,0,2555,5108,17171,17171,17171,Clothing & Shoes,General Shoes & Clothing
+9306168f3d7ccd5e51bba199eabc9b07,2023-08-01,2400,600,0,7,2027,2412,1,663,0,0,17,34,0,0,0,5499,10998,27288,80600,131370,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+3c50aa44604cddf8cdc4ec95917a158b,2023-09-03,7802,0,0,1,2027,0,0,396,0,0,3,8,0,0,0,0,0,11353,51087,99480,Health & Beauty,Cosmetics
+0e8c4829b7873c4cff241ab3f26e3add,2023-09-24,7346,0,0,9,2027,0,0,855,0,0,0,9,0,0,0,0,0,0,28244,70463,Clothing & Shoes,General Shoes & Clothing
+c361786d5f3b4d8c71a975317c64ee55,2023-10-11,32850,0,0,5,2026,0,0,165,0,0,6,9,0,0,0,1550,12488,21188,24686,24686,Clothing & Shoes,General Shoes & Clothing
+adb1ce3f22ce1eab8165dfb43b8f1baa,2023-07-21,11843,0,0,11,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+747b3b6a65970064b0b45ca2aa834db0,2023-10-07,5913,0,0,3,2028,14816,1,506,0,9977,18,37,0,0,0,10607,33863,102903,142503,168065,Intangible products,Event - Broker & Agencies
+e215486dd8a71d392cd43a5a697b177f,2023-07-16,4499,0,0,5,2024,0,0,195,0,0,3,7,0,0,0,0,0,8801,27634,32934,Clothing & Shoes,Adult Shoes & Clothing
+625c1e2b9abfdd6aa263894fa88dc8b9,2023-07-17,13986,0,0,9,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+7e291c7b72943075dcc419a274148618,2023-08-18,8987,0,0,4,2025,0,0,269,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+8905124f62e0db57818d64a94bef7974,2023-09-18,11499,2875,0,5,2025,25432,4,1022,11499,11499,16,29,0,0,3,24729,30640,46172,78570,120602,Clothing & Shoes,General Shoes & Clothing
+716ed18e3dc1743a16c98d2e98c15177,2023-09-24,13530,0,0,1,2025,5812,1,993,0,0,22,34,0,0,0,2906,11126,82899,139947,281598,Clothing & Shoes,General Shoes & Clothing
+a59ee7cac208a207c9ee18d97fc29d46,2023-10-10,13802,0,0,7,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+e6cb90206b5921ad249acbd4a0d663b1,2023-10-11,6855,0,0,6,2026,63612,3,220,30583,42407,14,28,0,0,0,10601,10601,48120,88193,99576,Clothing & Shoes,Adult Shoes & Clothing
+a1f5f0071faf32c59dadf6f182b7e24c,2023-08-02,26017,4161,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+5f3bd65d3fd7ff07885e7e0213929954,2023-09-10,15781,0,0,9,2026,0,0,162,0,0,0,4,0,0,0,0,0,0,14255,14255,Intangible products,Digital Services
+dcec119955463d581d3a872707784108,2023-08-28,10874,0,0,4,2027,28220,2,460,0,18813,2,2,0,0,0,4703,4703,4703,4703,10204,Home & Garden,Diversified Home & Garden Products
+d3d0c7ad919ef32bb92a6bc80d3eecde,2023-09-13,8603,4302,0,4,2026,0,0,500,0,0,5,8,0,0,0,0,0,21204,101870,145877,Clothing & Shoes,Adult Shoes & Clothing
+7f4ec24cf94026852bb730bf38dfbe3c,2023-07-07,7181,0,0,4,2025,0,0,163,0,0,0,4,0,0,0,0,0,0,8166,8166,Clothing & Shoes,Youthful Shoes & Clothing
+8226b6b2ecda0c0bbf119f2835823ee1,2023-07-08,40970,0,0,11,2027,35680,1,761,0,23786,7,9,0,0,0,5946,16264,70184,93152,93152,Home & Garden,Kitchenware
+6e90cff2b69836a6cb8a36c62e9ac12f,2023-08-20,1192,596,0,5,2026,6992,1,223,0,0,7,8,0,0,0,3496,6992,20316,28582,53380,Clothing & Shoes,Youthful Shoes & Clothing
+540b3f98eb42ca75524ff40c59e4fe17,2023-06-29,31550,0,0,3,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+bc64e31a1a2ff16f15f2bcae5ad66a5c,2023-06-20,21075,0,0,8,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Other Services
+d6fd4032ded61138f3db3cf56c9012ef,2023-07-21,2317,0,0,10,2024,0,0,648,0,0,0,4,0,0,0,0,0,0,6475,17860,Clothing & Shoes,General Shoes & Clothing
+7f7a81a38ce6c0715a660209d180d144,2023-10-10,2398,0,0,3,2027,0,0,699,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+dcf437b7b4aabe695365c1961eb6136b,2023-07-13,47460,0,0,3,2025,0,0,563,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Jewelry & Watches
+4ba5c54f63d6ee82a498bcdbffedde07,2023-08-20,5386,0,0,5,2026,0,0,757,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+3fd48d0b63d1697eb599085a3e2bb7ca,2023-06-24,37794,0,0,4,2024,0,0,659,0,0,0,0,0,0,0,0,0,0,0,42600,Jewelry & Accessories,Bags & Wallets
+6ddb6e066306b6d9429c72cd07001970,2023-06-01,11551,0,0,12,2024,0,0,225,0,0,0,1,0,0,2,0,0,0,8921,38542,Clothing & Shoes,Youthful Shoes & Clothing
+4a79248e69f31701a5fa67048e074211,2023-10-15,5485,4114,4114,2,2025,0,0,91,0,0,3,4,0,0,0,0,0,2795,3726,3726,Clothing & Shoes,General Shoes & Clothing
+31b0a602b4f8c2078ed271bf9f2d3570,2023-08-28,19398,0,0,5,2027,109842,3,184,19398,19398,9,12,0,0,0,19144,42864,64895,71521,78144,Clothing & Shoes,General Shoes & Clothing
+c3a53b57a7b6c2ea6a12076cde285d9a,2023-07-22,11550,0,0,3,2027,17920,1,810,0,0,3,11,0,0,0,8960,17920,26880,57781,59981,Intangible products,Travel - Accommodation & Resorts
+b1f5b0e906f8232f50158a5e93368162,2023-06-09,41865,0,0,3,2025,0,0,28,0,14174,4,4,0,0,0,14174,18897,18897,18897,18897,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+ae909ac246154014281ac12dfd931b77,2023-09-15,17510,0,0,7,2028,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+80855891fdef15cbbfe1ec71090e93e4,2023-07-15,5455,0,0,4,2026,0,0,57,0,0,4,4,0,0,0,0,2234,4468,4468,4468,Clothing & Shoes,Adult Shoes & Clothing
+40e7c93891bc5897afda5d695f35c6fa,2023-10-14,12314,0,0,4,2028,24628,1,468,12314,12314,1,1,0,0,4,10289,10289,10289,10289,28063,Intangible products,Event - Broker & Agencies
+8767d3d9b0980f2babc795d91416d258,2023-08-04,76944,0,0,10,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+d7260687f6cb0505930914f7148b4ae0,2023-08-10,8800,0,0,11,2023,23932,1,13,0,15954,1,1,0,0,0,3988,3988,3988,3988,3988,Clothing & Shoes,Youthful Shoes & Clothing
+2769c683db3b08c45b41f9af4f26d19f,2023-08-05,2579,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+f95c320aeafe1ca633e96d18ecf5680c,2023-09-09,5940,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+8f79698c4d328a9a5d45be913489571a,2023-06-30,11933,2984,0,12,2024,65812,7,843,28900,28900,42,75,0,0,0,19628,46182,106818,168794,298193,Clothing & Shoes,General Shoes & Clothing
+10c8d45de6f5a69dbeb77803671b64cd,2023-08-11,10437,0,0,4,2027,0,0,903,0,0,0,0,0,0,0,0,0,0,0,36380,Clothing & Shoes,Adult Shoes & Clothing
+4122dc0e680f4fb986b6ef355ee87f71,2023-09-05,18500,0,0,4,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+5d316ba739b20afbe35eb0a585a88e7a,2023-09-11,8081,0,0,11,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+5fe959744714b569aeae1320383273ed,2023-06-13,3087,0,0,8,2026,2096,1,156,0,0,11,19,0,0,0,2198,5442,10325,19041,19041,Clothing & Shoes,Youthful Shoes & Clothing
+dfcd020934910a1023dea60fac9caddf,2023-10-10,5071,0,0,3,2025,0,0,126,0,0,5,8,2,2,2,0,6967,27719,33575,33575,Clothing & Shoes,Youthful Shoes & Clothing
+a90e5a3c1096778cd735b6d3e55b82ba,2023-09-27,14460,0,0,12,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+12d5baa964a222f2cbf17c10dacd2d98,2023-07-24,3968,0,0,6,2027,18230,2,4,12153,12153,2,2,0,0,0,3038,3038,3038,3038,3038,Clothing & Shoes,General Shoes & Clothing
+ffef1568b540f510211194569ba39e59,2023-07-03,52767,0,0,3,2028,102684,1,241,68456,68456,12,16,0,0,0,31379,45644,157276,165134,190483,Intangible products,Event - Broker & Agencies
+d1e5def22c80484da9d2b60ea9050e6a,2023-10-17,6447,0,0,9,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+49599008fbcf8da9f6dad11457508b1e,2023-07-16,62534,0,0,3,2024,19594,2,465,0,8130,8,14,0,0,0,5731,9430,86138,108703,130588,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+c8698bd5d0c04294c7ce5d2f6a448e11,2023-10-20,8167,0,0,7,2024,5128,1,294,0,0,7,7,0,0,0,10140,16492,22842,22842,30798,Clothing & Shoes,Youthful Shoes & Clothing
+94eb348dfabf5eb7f276d10feffc988e,2023-08-21,34172,0,0,11,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+2f60ac8c2376898f8df0de4af0a5a422,2023-07-24,8477,0,0,3,2024,46908,5,322,11728,22389,27,60,0,0,0,13506,23747,63324,143119,201504,Jewelry & Accessories,Diversified Jewelry & Accessories
+c20e05096b42c5c1f248d74b9980a73c,2023-10-10,4658,0,0,6,2031,18346,2,515,10677,10677,1,1,0,0,0,1504,1504,1504,1504,1504,Clothing & Shoes,General Shoes & Clothing
+e4a7d54a909a75b93c43ecc7100eb067,2023-10-15,6494,0,0,10,2025,12226,2,375,0,0,6,16,0,0,0,3112,9224,19779,58947,91710,Clothing & Shoes,General Shoes & Clothing
+8b52827d98c76132189c6b606839dc58,2023-07-21,47446,0,0,4,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+1b3475ab40fd268425869d2c8453219e,2023-08-16,6313,0,0,7,2026,0,0,203,0,0,0,2,0,0,0,0,0,0,8338,16676,Clothing & Shoes,General Shoes & Clothing
+46b66fa20a37d6a1e532475d077873a8,2023-06-24,5710,0,0,3,2027,2538,1,91,0,0,10,11,0,0,0,3304,9910,16220,17645,17645,Clothing & Shoes,Youthful Shoes & Clothing
+b498269abd68f1f1a025bd83630eeed3,2023-06-06,23803,0,0,11,2025,113164,4,545,0,49783,22,34,0,0,0,34906,57367,116264,152525,305695,Clothing & Shoes,Youthful Shoes & Clothing
+6c4a9c945505bd303b5aa2a61676925c,2023-08-24,15079,0,0,12,2027,12626,1,690,0,0,7,7,0,0,0,6313,14042,27437,27437,157202,Clothing & Shoes,General Shoes & Clothing
+d1553a16062efef88909acc2acb53955,2023-08-27,13495,0,0,4,2024,0,0,440,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+bc8c5382e28eb3c4f9c53c727ffc851a,2023-10-03,21513,0,0,10,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+046d7a1e16b0f81ca5947af632678031,2023-10-01,13854,0,0,2,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+4fb330b0e209abbbd257048552e9c57d,2023-08-23,19107,0,0,9,2025,0,0,118,0,0,2,5,0,0,0,0,0,10575,16050,16050,Clothing & Shoes,General Shoes & Clothing
+ff81568313617627c8c0e3b744dd7560,2023-06-09,14306,0,0,5,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Plants & Flowers
+3c1436c13d5428e68e07868ee96ec251,2023-10-03,29998,0,0,12,2024,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+2630bf1202f6d47f03318009460f6c07,2023-09-20,3387,0,0,2,2028,181840,2,638,73700,73700,24,36,0,0,0,37691,92761,211789,335735,540869,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+ab6e83db3b7c29ccca87251f1d87a8ff,2023-08-20,3957,0,0,1,2026,7914,1,410,3957,3957,4,4,0,0,0,3410,6820,13640,13640,47486,Unknown,Unknown
+c088f41c76f59a323332eac1296207b4,2023-07-09,4900,0,0,11,2024,55856,8,41,28580,28580,15,15,0,0,0,12366,18603,21627,21627,21627,Clothing & Shoes,General Shoes & Clothing
+f52e8d50fdd04ec04c1a27d4ae9dfcb9,2023-08-10,3494,874,874,2,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+0e0cf54cd101491db337adaf24c29f56,2023-06-13,11510,0,0,6,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+8c91d740a98c9472499ffd408dd46848,2023-07-06,118828,0,0,12,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+2c5eb5d880c1fda732d99c5ead312a93,2023-07-24,9075,0,0,6,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+2aab2a567d0e614fe99314a0d99a754b,2023-08-10,14039,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Erotic Materials,Diversified Erotic Material
+773307ab3d1afb66ba36df06097e92ab,2023-10-09,3789,0,0,3,2027,18456,2,321,11041,11041,1,1,0,0,0,1813,1813,1813,1813,14230,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+9fae76c31fb9b4c8aabdeacd3d1d0262,2023-09-22,2954,0,0,10,2028,0,0,66,0,0,4,4,0,0,0,0,788,3151,3151,3151,Clothing & Shoes,General Shoes & Clothing
+f0cd8edb9bdc25a49ea95f2fefd190d7,2023-08-16,4889,3667,3667,7,2029,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+b0a3853181b34fecd0a9a076ab275978,2023-10-02,2800,0,0,7,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+c3e7686039e91a8800d0ccbb6fae5862,2023-08-14,11769,0,0,7,2024,0,0,52,0,0,4,4,0,0,0,179,357,1069,1069,1069,Clothing & Shoes,Adult Shoes & Clothing
+4560c1d685d9364eccdb5cb3ec6a78c4,2023-06-26,76501,0,0,2,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+66ade1bab73e8b340e7658d35880e040,2023-09-26,13800,0,0,11,2027,79154,7,899,16500,18436,38,86,0,0,0,15360,44531,93207,221737,409676,Clothing & Shoes,Adult Shoes & Clothing
+0c1189fd6206a7bdbddf48b6763f4621,2023-08-21,30450,0,0,3,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+0b9d4da830379e5895a4628870109ba9,2023-06-18,6524,0,0,1,2027,13642,1,0,6821,6821,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+78e845f20bd4313ce543d02b16fbbfd1,2023-07-06,8475,0,0,11,2027,13780,1,927,0,0,8,16,0,0,0,3445,6889,15028,28640,53950,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+26fe3a94301a348a2650f726f82b8ab4,2023-08-28,5999,0,0,3,2025,0,0,200,0,0,0,4,0,0,0,0,0,0,8849,15599,Health & Beauty,Dietary Supplements
+7ffddda1e195dcdcaa623623472b71bb,2023-08-06,12195,0,0,7,2026,0,0,649,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Jewelry & Watches
+ab0f1bb7431564de19124b936a0f9a94,2023-09-10,11995,0,0,3,2031,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+abf4e5bcc009fcd4288bf1115e94233b,2023-07-04,12185,0,0,5,2024,29206,5,830,0,4095,33,66,0,0,2,10068,22088,67221,128595,165964,Clothing & Shoes,General Shoes & Clothing
+85f1993792d331a7ec7b4a6befa4d228,2023-10-06,5245,1312,1312,5,2028,10490,1,917,5245,5245,0,0,0,0,0,0,0,0,0,12264,Clothing & Shoes,Youthful Shoes & Clothing
+e892d229cddcf429f49d2f4f97121098,2023-10-06,6064,1516,0,12,2026,0,0,435,0,0,0,4,0,0,0,0,0,0,3495,14645,Clothing & Shoes,Youthful Shoes & Clothing
+d89058c74fbad6e9f0f59dee9ff3d868,2023-08-01,14477,0,0,6,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+ee28d80b6f6ecdafdce86d4fe1a7bc09,2023-08-23,2700,0,0,6,2027,11636,1,818,4700,4700,23,37,0,0,0,0,7977,173256,264456,357765,Food & Beverage,Food & Beverage
+0df95961ebbc042ee3116031fed83c30,2023-08-12,38910,0,0,1,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Jewelry & Watches
+f618a4599ddd28d208aff2807283bbe0,2023-09-04,12762,0,0,4,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+21d18c5aab863b41ada16e821cef6d36,2023-08-01,25556,0,0,8,2025,14544,1,951,0,0,16,18,0,0,0,11221,26352,62636,72020,109676,Intangible products,Event - Broker & Agencies
+87f0b6ca70fb8fd1390d5ada789be27e,2023-07-12,4110,0,0,11,2023,0,0,322,0,0,4,7,0,0,0,0,2400,9600,14947,33461,Clothing & Shoes,General Shoes & Clothing
+b96a5de8fc868df1a25568e7231d50f0,2023-08-17,9418,0,0,3,2024,0,0,239,0,0,0,0,0,0,0,0,0,0,0,15855,Unknown,Unknown
+f0a521a62a3c98b3d4c03388e3d2b441,2023-07-14,10043,0,0,2,2025,20648,1,158,13765,13765,31,41,0,0,0,3441,10854,39703,52495,52495,Clothing & Shoes,General Shoes & Clothing
+f07c0fa3a6a82ad20245cb434b692930,2023-08-16,6771,0,0,7,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+3667d2769c3865d4f168bdf62621f98b,2023-09-22,4220,0,0,5,2025,5622,1,14,0,0,2,2,0,0,0,0,2810,2810,2810,2810,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+2ec850f51ea2cca8df3aa952cb694173,2023-09-20,77305,0,0,8,2026,154610,1,1028,77305,77305,4,4,0,0,0,4237,8473,16945,16945,21108,Intangible products,Event - Broker & Agencies
+10b87b2f405f6a2049049cd443a04f0b,2023-08-12,9571,0,0,9,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+089b5c53da5d3b6791c0c47273b09890,2023-06-17,12301,0,0,3,2026,0,0,962,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+343ee3b6a000b6aa47d30ba153fae57c,2023-09-28,13826,0,0,8,2025,51182,4,1076,13826,13826,19,45,0,0,0,16505,33007,60882,117126,187110,Intangible products,Event - Organizer
+1aefc80d04e11c3ee64e0a3bdd0c6eb1,2023-08-26,5928,0,0,3,2030,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Pet Supplies
+4cc1b979c257b7312cf59ad21829e080,2023-06-03,114312,28578,0,11,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+f6e8d645a565b69712a5980ee3d36956,2023-08-30,19850,0,0,11,2024,0,0,531,0,0,0,0,0,0,0,0,0,0,0,0,Children Products,Diversified Children Products
+955760077541e9b92d97a8c45c873c36,2023-07-17,23403,5851,0,7,2028,14536,2,802,0,0,18,31,0,0,0,9267,18534,60573,100725,193366,Clothing & Shoes,Youthful Shoes & Clothing
+7509e818c0b2e29ca95d8a45eca8b9ef,2023-10-18,2919,0,0,10,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+26a37393c787ee5c75d291d3faefa1b5,2023-06-28,6966,0,0,5,2025,12904,2,645,0,0,5,5,0,0,0,3546,7091,7732,7732,7732,Clothing & Shoes,General Shoes & Clothing
+68d87ec7583111020fc13f0f6097e951,2023-06-29,100543,0,0,5,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+abe325c4aec828f5de0a047ab4ac82aa,2023-10-09,5064,0,0,5,2026,0,0,1067,0,0,0,0,0,0,0,0,0,0,0,6825,Clothing & Shoes,Youthful Shoes & Clothing
+6e01c90d9311e114e9c709f4f6b4580b,2023-06-12,15512,0,0,8,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+b90d5b90d0d6b0f0eb7b3134acec063d,2023-08-05,11908,0,0,12,2026,22000,1,987,11000,11000,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+382df4997d3aaeee126b6eaececf27ea,2023-09-11,5709,0,0,4,2027,7808,1,23,0,0,2,2,0,0,0,1952,3904,3904,3904,3904,Clothing & Shoes,General Shoes & Clothing
+3bf611f2c8f7c93327d0f4aa71d764a5,2023-10-08,7728,0,0,8,2027,0,0,745,0,0,22,32,0,0,0,2699,9594,36938,54747,91091,Clothing & Shoes,General Shoes & Clothing
+f70174bfedeb43f181a6f94a800e9a08,2023-06-08,8547,0,0,10,2025,0,0,914,0,0,10,20,0,0,0,1938,5342,15296,26830,26830,Unknown,Unknown
+70f29c7d394c2a816ca7d52bf4e8aaf8,2023-08-29,53571,0,0,1,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+b8313b48b21ca8400f93e6174c14fcfa,2023-10-06,3286,1644,1644,2,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+785dba2df31f63bce4771061a26b1c4e,2023-10-03,6826,0,0,9,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+0c492f790eb19e706f0a9295fa5a43cb,2023-06-07,20094,0,0,4,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+33c8fc468f595de26908b2dc72b5b9df,2023-06-14,38197,0,0,5,2026,0,0,499,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+3e3abacadbd7ac7479b237bea6bf5937,2023-07-21,65276,0,0,10,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+a707dc5c51f702df78e75caf106f36e7,2023-08-14,12074,0,0,2,2025,13584,2,632,0,4923,17,25,0,0,0,6229,12459,31765,46662,103456,Clothing & Shoes,Adult Shoes & Clothing
+e9f9b770583692567219ffaead9b060a,2023-09-08,57838,19959,0,11,2024,0,0,1013,0,0,0,2,0,0,6,0,0,0,25126,39468,Intangible products,Travel - Accommodation & Resorts
+c7a9fb2783404d9f8410e12edc3aea8e,2023-09-05,71215,0,0,12,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+52f612959c1e0f3ef18b6eea6e390b6d,2023-09-24,12828,0,0,7,2025,0,0,1069,0,0,0,4,0,0,0,0,0,0,7822,37778,Health & Beauty,Cosmetics
+ee6d78f914f7a9bbe9c452d96bcd770a,2023-10-19,13375,0,0,11,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Unknown,Unknown
+7c2babff2384d9acdd55c0686d2157a2,2023-06-23,9582,0,0,10,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+f25a9e52fc689e11441302faae899c38,2023-08-11,52276,0,0,8,2027,0,0,175,0,0,4,11,0,0,0,0,6540,26158,100107,100107,Intangible products,Travel - Broker & Agencies
+64c2e9c2808c748c8af5c9eed04f7e24,2023-08-11,19260,0,0,2,2027,0,0,66,0,0,4,4,0,0,0,0,3612,14445,14445,14445,Clothing & Shoes,General Shoes & Clothing
+0e4fe489af3a3173a5cf235f420f08a3,2023-10-20,15367,0,0,12,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+e7c53d0bc661eb3e8588480cedc48aff,2023-08-06,130425,0,0,10,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Furniture
+162bc05682cb808c56ed76dcbdf8b7a1,2023-10-06,56669,0,0,6,2025,0,1,0,56669,56669,0,0,0,0,0,0,0,0,0,0,Intangible products,Event Tickets
+42718667b22e4cf52498f78a57387371,2023-06-10,18300,0,0,7,2026,41886,1,196,0,27924,5,11,0,0,0,6981,21284,35586,66414,75241,Intangible products,Travel - Broker & Agencies
+d518f89fb6ab96c7b7e12d7178449667,2023-10-16,2379,0,0,6,2028,5070,1,236,0,0,5,6,0,0,0,1267,2534,8171,10050,21851,Clothing & Shoes,General Shoes & Clothing
+5a8fdfcea49d52c42b29df7d9b425678,2023-09-18,2618,0,0,7,2025,3568,1,62,0,0,7,7,0,0,0,3875,7750,17281,17281,17281,Clothing & Shoes,General Shoes & Clothing
+8a4159e9b14689ed9e24c94a5f9c6c14,2023-07-19,8982,0,0,2,2026,37858,3,846,8976,18805,38,53,0,2,2,12098,29303,83834,119368,152852,Clothing & Shoes,Youthful Shoes & Clothing
+8a0536ac028146cf38c30754feabb443,2023-10-17,8439,0,0,5,2027,0,0,519,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+7afa4bc062b7055c899d1a82f6540e5e,2023-06-03,12990,0,0,9,2024,0,0,369,0,0,0,0,0,0,0,0,0,0,0,7024,Health & Beauty,Body & Haircare
+912a5d0145710cd49e302adaaea038c3,2023-07-18,9791,0,0,3,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+86d1a9ef9b0873144375c8553af461cc,2023-10-15,16645,0,0,7,2027,33290,1,201,16645,16645,0,5,0,0,0,0,0,0,20635,32523,Clothing & Shoes,Youthful Shoes & Clothing
+32d4da84a6fa7c7cdf12751aefbaff19,2023-07-07,66451,0,0,3,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+344dc68e044378872e52b791f1063fd8,2023-09-15,5995,0,0,4,2029,11990,1,417,5995,5995,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+8a84040d1610f2d6eab74e317ddcb18f,2023-07-26,9743,0,0,5,2025,12818,1,846,0,0,9,19,0,0,0,2450,6318,14418,36294,80462,Clothing & Shoes,General Shoes & Clothing
+c86b63d5958d78f6111ef100f464bc82,2023-06-25,6807,0,0,6,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+2f5e82496eced8c57815945419a0ae07,2023-09-04,11500,2875,0,8,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+62cc8fb4e5c2580c82794bfc5a38474d,2023-09-12,6962,0,0,4,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+fe965739168429d47104f738d62e30cd,2023-06-07,4860,0,0,4,2028,9720,1,922,4860,4860,0,4,0,0,0,0,0,0,3837,3837,Electronics,Electronic Equipment & Related Accessories
+0def47b00c8579ccb4abcba8196ca8dc,2023-09-11,9342,0,0,7,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+f2c8b4807e268c6bf5c2e3887d677a3c,2023-09-21,5920,0,0,3,2026,4444,1,1003,0,0,10,10,0,0,0,4290,10089,20971,20971,49585,Health & Beauty,Cosmetics
+245b369f2dde466b47d2fb73b3cc4d07,2023-07-13,23220,0,0,6,2024,0,0,551,0,0,2,6,0,0,0,0,0,12502,28792,32580,Intangible products,Event - Broker & Agencies
+e91952363a2eb9ba43527fb093ef8328,2023-08-15,5488,0,0,4,2030,20020,2,17,5488,5488,2,2,0,0,0,2261,7051,7051,7051,7051,Clothing & Shoes,Youthful Shoes & Clothing
+5e2277f4fdd9f82f5f9b5da103b8ba1c,2023-10-18,11365,0,0,6,2027,0,0,315,0,0,0,1,0,0,0,0,0,0,2960,20947,Clothing & Shoes,General Shoes & Clothing
+2a6bb276f1f67d2917b69d5ebee18fad,2023-06-16,15034,0,0,3,2027,30068,1,0,15034,15034,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+3954372099683a138b8d0c4129cbd126,2023-06-23,6527,0,0,11,2025,13054,1,672,6527,6527,9,14,0,0,2,0,0,16922,35687,81007,Clothing & Shoes,Youthful Shoes & Clothing
+9d93e27a4ec2725c8547ac57f4616e54,2023-10-27,13786,0,0,9,2028,43240,2,342,0,21820,11,19,0,2,2,10158,14861,26251,40025,68991,Clothing & Shoes,General Shoes & Clothing
+68d5d431fd8b664523ece39ae5e2b099,2023-06-18,5198,0,0,12,2027,61362,4,818,4800,4800,26,69,2,2,6,9411,28112,61697,145475,312787,Clothing & Shoes,General Shoes & Clothing
+e5bd9ec863f203f853715523a8f138bd,2023-10-04,102961,0,0,11,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Accommodation & Resorts
+2861a265d3f2e39e3413bb1b1d83f971,2023-08-21,6795,0,0,2,2025,0,0,398,0,0,4,4,0,0,0,0,1064,6378,6378,7694,Food & Beverage,Food & Beverage
+0231cd72adeb6a3352158122ba614ee3,2023-09-19,27606,0,0,7,2028,0,0,59,0,0,4,4,0,0,0,4602,4602,27606,27606,27606,Unknown,Unknown
+84bd29ed6d98a8a2afd27e198301d0bd,2023-09-30,5075,846,846,3,2026,17986,1,9,0,11990,1,1,0,0,0,2997,2997,2997,2997,2997,Clothing & Shoes,Youthful Shoes & Clothing
+8a6a768170f6d11178f3043d711d0474,2023-07-08,3701,0,0,3,2024,0,0,396,0,0,14,20,0,0,0,0,12812,24415,32795,77433,Clothing & Shoes,General Shoes & Clothing
+fa5b5ea8cb49ce34892c0b3987b7bc78,2023-10-11,4897,0,0,7,2026,21098,2,177,12432,12432,15,29,0,0,0,4741,9702,23917,33095,33095,Clothing & Shoes,Youthful Shoes & Clothing
+5411958caa68013daac30773c6002243,2023-10-15,3002,0,0,7,2030,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+bde73a77c9c974abb1fb90b1151d4586,2023-09-11,13296,3324,0,1,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Travel - Broker & Agencies
+79b0669c50d698bb04c15fcdfc19565d,2023-10-19,13050,0,0,8,2029,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+3bc946e67f99a32ed6eccb9d987f69f1,2023-08-29,18351,0,0,1,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+4c103559b71bac1a0526ce0f380f92d2,2023-07-08,4159,3120,3120,9,2024,6668,1,255,0,0,2,2,0,0,0,1667,6766,6766,6766,11766,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+21a7d53f10d5ed3797a1b4110607437f,2023-08-24,29229,21922,21922,9,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+393d9a14f7286262307eaf4dd234182c,2023-09-12,3815,0,0,3,2024,6948,1,998,4631,4631,1,5,0,0,0,1157,1157,1157,14719,25970,Clothing & Shoes,Adult Shoes & Clothing
+a6e6fe18338a18abe282fa66a60c5b4f,2023-06-20,5725,0,0,7,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+3f8e0e86a731c2ecba37966c35d8c5c9,2023-10-24,8789,0,0,4,2030,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+4316052e0de53a240c426aba8a26f077,2023-06-28,7500,0,0,3,2024,48534,6,276,5585,19204,39,78,0,0,0,12056,22618,60063,133608,216220,Food & Beverage,Food & Beverage
+14eba35ad72b26e74e6c25afde585597,2023-08-02,7920,0,0,9,2027,0,0,379,0,0,0,0,0,0,0,0,0,0,0,15726,Clothing & Shoes,Adult Shoes & Clothing
+e251d06a5c07fb6450804d9e60db8f21,2023-08-14,60840,0,0,8,2028,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+d672ed158896ee5bdff04c8a06e0ba4c,2023-06-09,3484,581,581,5,2026,7812,1,6,5208,5208,1,1,0,0,0,1302,1302,1302,1302,1302,Clothing & Shoes,General Shoes & Clothing
+92206fce301b34c2ecc863197391834a,2023-09-07,6101,0,0,2,2026,38208,5,961,0,17643,12,14,0,0,0,8618,12826,17295,19215,29630,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+9eb463e0df9070d993b63150497f0769,2023-09-05,41335,0,0,2,2026,306239,3,248,0,0,3,3,0,0,0,11580,11580,34740,34740,202529,Intangible products,Travel - Accommodation & Resorts
+100debe812b89dc05be03f6eb10185b0,2023-08-26,8213,0,0,11,2029,0,0,400,0,0,0,0,0,0,0,0,0,0,0,17926,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+4fd06625825b949bca7923cf6247eab5,2023-10-01,9540,0,0,8,2027,19080,1,1063,9540,9540,20,25,0,0,0,12855,30787,64349,75483,168131,Clothing & Shoes,General Shoes & Clothing
+22e9e84150d76cb328cb4f1a66aca3c6,2023-10-24,3645,0,0,3,2026,57546,1,51,0,0,1,1,0,0,0,0,6048,6048,6048,6048,Clothing & Shoes,General Shoes & Clothing
+7a2d6482ac77cd7e44eb0bd9bc6c9749,2023-06-16,6500,0,0,9,2025,0,0,182,0,0,13,29,0,0,0,8728,13092,38079,103044,103264,Clothing & Shoes,Youthful Shoes & Clothing
+0b756383f99398b751ca4e57aeac7bca,2023-06-06,3313,0,0,11,2025,6404,1,39,0,0,3,3,0,0,0,3202,6403,9604,9604,9604,Clothing & Shoes,Youthful Shoes & Clothing
+c45ec16a9c1a9d3da934790e81d759e3,2023-09-03,4526,0,0,8,2024,80275,2,102,0,0,10,10,0,0,0,10742,12662,35043,35043,35043,Clothing & Shoes,General Shoes & Clothing
+5b35a0645b907e52958c3d9a9f257f3e,2023-08-16,23814,0,0,4,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Furniture
+6fad19a006df096539243792fa0676c6,2023-08-27,8595,0,0,10,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+f658e0a3ec992cccdd5c3677b551079b,2023-08-15,6467,0,0,8,2026,24132,2,860,0,9488,4,4,0,0,0,7322,12272,17221,17221,17221,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+07ca1a9d980db7359040b92a65f3b4d7,2023-09-15,13245,3312,0,7,2024,0,0,140,0,0,0,4,0,0,0,0,0,0,17089,17089,Intangible products,Event Tickets
+4a11fb2d005475473318a9e3abb95231,2023-10-23,7900,0,0,7,2028,15800,1,960,7900,7900,4,4,0,0,0,0,1894,7576,7576,18346,Intangible products,Education
+7c487034e787b490020362cbec3c1ee2,2023-08-05,8125,0,0,5,2027,24730,2,344,8125,8125,7,7,0,0,0,4240,13791,33962,33962,68137,Intangible products,Event - Broker & Agencies
+7a589f521edf2cc589f500cced514c01,2023-10-10,49080,0,0,7,2026,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+344b310ebf899446c6402a6704e04f1e,2023-09-20,6302,0,0,10,2030,0,0,859,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+adb01c3f6034b1da431a6b1c6a6b283a,2023-08-18,9334,0,0,5,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+1e23661bd4d6bea0168b93a677a0365f,2023-06-21,21369,0,0,11,2025,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+9f8c17eb835b0a79ef76f652f8139194,2023-07-28,9089,0,0,7,2027,0,0,760,0,0,4,4,0,0,2,0,2394,4787,4787,19314,Clothing & Shoes,General Shoes & Clothing
+e43837a7af963df051d7d621f8dd8029,2023-10-07,7044,0,0,4,2031,14088,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+cbdf29a50ca1f9b3024a605c43e81ac0,2023-08-04,2998,0,0,8,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+826a7370a62746dcb9bc0b2ebb6fdb79,2023-08-05,4114,0,0,4,2028,6088,1,131,4058,4058,21,29,0,0,0,2473,5920,29954,43858,43858,Clothing & Shoes,General Shoes & Clothing
+a044b7883b91d0b7de555e79cdce2b2d,2023-10-17,13040,0,0,8,2026,0,0,582,0,0,0,0,0,0,0,0,0,0,0,22861,Clothing & Shoes,Adult Shoes & Clothing
+cd3373037d465eb0d59fe3f90958ea3b,2023-08-20,16238,0,0,12,2026,18848,1,936,0,0,23,37,0,0,0,14634,48052,100832,157114,229493,Clothing & Shoes,General Shoes & Clothing
+953f44b1d48cc3d6dcd00ac058facc7e,2023-09-06,955,0,0,9,2026,0,0,70,0,0,4,4,0,0,0,0,520,3638,3638,3638,Clothing & Shoes,Youthful Shoes & Clothing
+33562481725a8aa95e09273e678b33a9,2023-10-03,13267,3317,0,5,2027,0,0,91,0,0,7,8,0,0,0,4163,8326,19525,20956,20956,Clothing & Shoes,General Shoes & Clothing
+6a59de15e4869ddd12b44a336eccc998,2023-07-18,144974,0,0,4,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Electronics,Diversified Electronics
+3069a82efefc39cd80993ede0f6ea45d,2023-06-03,3928,0,0,6,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+5f42d4a3212488d23ab29c668ea42a22,2023-09-27,16904,0,0,10,2025,0,0,96,0,0,3,4,0,0,0,0,0,87603,117132,117132,Unknown,Unknown
+537df414dc1148d233d88f24ac6ee26d,2023-09-15,4551,0,0,4,2030,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+3602416445e27edeb7a981220c921728,2023-08-23,11949,0,0,5,2031,34140,2,1061,11949,11949,9,14,0,0,0,2378,7371,21261,31538,63174,Clothing & Shoes,General Shoes & Clothing
+380b4765873b3abab8611f342e1a0353,2023-10-16,9647,2412,0,4,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+6698783821bff135fdaa93eaead8d4b5,2023-09-12,3187,797,0,7,2027,14172,3,56,3187,3187,7,7,0,0,0,1187,4411,5939,5939,5939,Clothing & Shoes,Youthful Shoes & Clothing
+840c8d9062fcf2cd729172cb880303a6,2023-09-21,21670,5418,0,9,2026,43340,1,482,21670,21670,0,0,0,0,0,0,0,0,0,2411,Intangible products,Event - Broker & Agencies
+ad962c91ebf540ff5418e2df4557c6b3,2023-09-19,28771,14387,14387,11,2025,0,0,325,0,0,3,16,0,3,3,6033,6033,16698,47023,72937,Clothing & Shoes,Youthful Shoes & Clothing
+0dcc44257f452a025a04a9f74d88ca93,2023-07-05,7189,0,0,8,2025,0,0,397,0,0,0,0,0,0,0,0,0,0,0,1890,Clothing & Shoes,Youthful Shoes & Clothing
+18219d38699ebf66075b61e5010331aa,2023-06-28,16222,0,0,5,2027,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+684bd328fad346497916c396066b2b1c,2023-07-31,4552,2276,2276,3,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Organizer
+6c106e252752d2ee4a711a3114abb507,2023-08-11,16702,3446,3446,1,2024,1734,1,35,0,0,3,3,0,0,0,866,1732,4330,4330,4330,Clothing & Shoes,General Shoes & Clothing
+34daef9f61ca3bab8fede3004781d0bb,2023-10-04,34191,0,0,6,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Home & Garden,Furniture
+ac9e71e6029ba7664e86c092adfa657c,2023-08-18,31111,0,0,11,2024,0,0,649,0,0,4,8,0,0,0,0,0,46916,61813,61813,Clothing & Shoes,General Shoes & Clothing
+06d35e9234246efbf325e43a6b053c35,2023-06-04,4625,0,0,5,2030,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+cbbaf3b0d816830b906f241a6b1b2558,2023-10-16,12133,0,0,3,2025,15614,1,17,0,0,2,2,0,0,0,3903,7806,7806,7806,7806,Clothing & Shoes,Adult Shoes & Clothing
+211e893e7e8773d0e8f8a6e759da5992,2023-08-18,6450,1613,0,4,2025,0,0,629,0,0,1,15,0,0,0,0,0,12112,43715,68093,Jewelry & Accessories,Diversified Jewelry & Accessories
+bf235046ac51a42e96fac93d146d71ba,2023-06-03,8797,0,0,3,2026,2738,1,305,0,0,4,4,0,0,0,1369,2738,5218,5218,31651,Clothing & Shoes,General Shoes & Clothing
+e1bc18f6cf4b46307a05000158d293c5,2023-06-15,22209,0,0,9,2027,336,0,824,0,0,9,32,0,0,0,2968,13746,42692,132560,263969,Clothing & Shoes,General Shoes & Clothing
+4794f7d74857d15906b7a95318dfc30b,2023-10-27,10351,0,0,8,2024,0,0,699,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Bags & Wallets
+1d2ee3a55e9167dc2195cb8b641c5222,2023-06-15,14876,0,0,4,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+0de231e3a356f200c89ae01a5349157a,2023-10-23,9915,0,0,9,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+7709f066d6f2b4152620aa776bcadaee,2023-10-27,59795,0,0,6,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+b940a6ac541bddbf6ad9dfc113029cf2,2023-07-03,21832,0,0,5,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+1e04749f036b0f49883ce464db19f4f8,2023-08-09,11941,0,0,5,2025,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+bf1cf9b78f6d674626b1f2a535ac9da5,2023-06-01,13838,6920,6920,5,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+8365e506b661d069bdf9bccccd5171c5,2023-07-15,16717,0,0,3,2026,0,0,466,0,0,0,4,0,0,0,0,0,0,5395,26972,Intangible products,Event - Broker & Agencies
+ed2215cd5bc3166c083908e852c44b10,2023-06-05,5457,0,0,4,2027,0,0,541,0,0,8,19,0,0,0,1162,2324,7365,26415,29124,Clothing & Shoes,Adult Shoes & Clothing
+4357b4a5576268d401fa1dd8a8837051,2023-06-14,7485,0,0,12,2025,0,0,280,0,0,0,0,0,0,0,0,0,0,0,8600,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+ba3a66a739bb5cc8be4300b8e5051618,2023-06-22,8786,0,0,2,2027,9878,1,404,0,9976,5,5,0,0,0,8870,12702,28028,28028,30476,Clothing & Shoes,General Shoes & Clothing
+7a2817a34b2d84a01332232ebeace89f,2023-08-05,8000,0,0,3,2027,21772,2,213,8000,8000,6,8,0,0,0,1557,3114,16945,28316,48498,Food & Beverage,Food & Beverage
+2b12d8799975ff213d3b2cf7ed141f37,2023-07-14,10825,2707,0,2,2027,0,0,806,0,0,8,22,0,2,2,1494,4462,11872,56619,90545,Clothing & Shoes,General Shoes & Clothing
+6533df2ca054366694d36aff556e5d29,2023-09-16,21220,0,0,12,2026,21220,1,0,21220,21220,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+662444e2c471bd11e75e73bbb5a8c6ea,2023-08-17,45690,0,0,3,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+37af4c08aa80aa37c880e2ef4ee6624e,2023-09-07,11879,2970,0,8,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+3f23732a2782d3949014b41c169bf199,2023-08-29,15400,0,0,3,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+e8e2b34b8d5c2a472c5201149268f205,2023-09-21,11226,8420,8420,8,2028,0,0,331,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+d5afccb9903390035326db822312ae7d,2023-10-22,10675,0,0,12,2026,24566,4,112,8460,14275,7,9,0,0,0,4466,5805,13019,20332,20332,Clothing & Shoes,General Shoes & Clothing
+fb89eebaabff9bf6defc6cb52d523c75,2023-08-21,10717,2680,2680,8,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Diversified Jewelry & Accessories
+faff519e0cde1c85a5562134480de248,2023-09-24,30450,0,0,6,2026,66996,8,677,84409,98076,58,73,0,0,0,109149,128674,204266,258754,423965,Clothing & Shoes,General Shoes & Clothing
+8b15a400c1361ab8fd3c272f953ed374,2023-10-20,8945,0,0,7,2026,22950,1,1,15299,15299,1,1,0,0,0,3824,3824,3824,3824,3824,Clothing & Shoes,General Shoes & Clothing
+7bc174627aeaabba59a6369d1c5e0b9e,2023-08-10,45347,0,0,2,2027,0,0,114,0,0,2,4,0,0,0,0,0,8290,24933,24933,Clothing & Shoes,General Shoes & Clothing
+aa1c5b17fcb2956c1aa413b3a3d6d026,2023-08-05,54524,0,0,12,2025,35479,3,316,0,28009,3,7,0,0,0,854,2390,2390,13884,21440,Intangible products,Travel - Accommodation & Resorts
+4d158c4898705ad55eeeb2d5d54a05a9,2023-06-02,37700,0,0,8,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Organizer
+220bcb51891bdaed2bbbf013c0d1029c,2023-08-23,14542,0,0,7,2025,7266,1,449,0,7265,9,9,0,0,0,7002,23966,64448,64448,98860,Clothing & Shoes,General Shoes & Clothing
+3b59f3d2250a5fd93f676b9390822691,2023-09-21,9482,0,0,6,2026,40592,1,10,0,27261,1,1,0,0,0,6965,6965,6965,6965,6965,Clothing & Shoes,General Shoes & Clothing
+96692472b431b3bea91b11b619c182fe,2023-08-22,14244,0,0,7,2027,28488,1,616,14244,14244,4,8,0,0,0,0,0,7666,15330,15330,Clothing & Shoes,Youthful Shoes & Clothing
+aa7953ca05475ebab2348a907c4dd36c,2023-09-08,6093,0,0,12,2025,7520,1,187,0,0,2,5,0,0,0,1879,3758,3758,43508,56757,Jewelry & Accessories,Diversified Jewelry & Accessories
+c1415a582ce2b50f79faaa776b8a245e,2023-08-21,16888,0,0,10,2026,46622,8,163,8491,14228,21,29,0,0,0,11616,22877,28181,50313,50313,Clothing & Shoes,General Shoes & Clothing
+5c9cfd466800f0e581d99d6ccd3fbbe8,2023-07-27,8140,0,0,9,2026,23596,2,585,10998,10998,4,11,0,0,0,6298,9846,13394,25517,71846,Clothing & Shoes,Youthful Shoes & Clothing
+7dbbc577d34c0ce721b5fda7e5030ec2,2023-06-27,20146,0,0,10,2025,11648,1,326,0,0,12,19,0,0,2,2912,15044,45457,57068,86933,Home & Garden,Furniture
+bb0a20cd22ceb28f7a3e886df22cb3f3,2023-07-16,9996,0,0,12,2023,15178,1,12,0,15175,1,1,0,0,0,7586,7586,7586,7586,7586,Clothing & Shoes,Youthful Shoes & Clothing
+bf73b7de597ba111d429a45e2d5ba721,2023-10-27,5348,0,0,9,2027,0,0,350,0,0,0,0,0,0,3,0,0,0,0,2211,Clothing & Shoes,General Shoes & Clothing
+09b385b63a9f3cca4f072f4de52ec7ae,2023-10-25,4927,0,0,4,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+de1c38ef4fc661fffe0987a054c5291f,2023-08-02,6170,0,0,3,2028,2600,1,337,0,0,3,3,0,0,0,1299,2598,3897,3897,9633,Jewelry & Accessories,Diversified Jewelry & Accessories
+da8bfdc592215000bf1727ce72e321a9,2023-06-18,8572,0,0,4,2026,54802,2,920,26288,26288,10,19,0,0,0,14257,21942,45719,68760,124206,Clothing & Shoes,Youthful Shoes & Clothing
+d4e021b8f59d87035a2caf6026c3a471,2023-09-25,16500,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+f87cc654beba637ee8fe9a8ca2b64ecf,2023-06-30,21290,0,0,1,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Health & Beauty,Body & Haircare
+ea71bb94c13af99ff724e29ba911019c,2023-09-26,3412,0,0,6,2025,10732,1,897,0,0,13,20,0,0,0,2683,5366,20651,40128,59276,Clothing & Shoes,Youthful Shoes & Clothing
+76e475cb98c6a451c77a6dc749972264,2023-08-08,1979,0,0,11,2024,0,0,813,0,0,4,4,0,0,0,0,1401,5601,5601,5601,"Leisure, Sport & Hobby",Concept Stores & Miscellaneous
+4c5d714a4d6dd10001cecf2ad82d3b7d,2023-09-11,12999,0,0,5,2025,9634,1,740,0,0,4,26,0,0,0,2408,6382,22052,75804,172405,Clothing & Shoes,General Shoes & Clothing
+27f08144b31a9adea6a83705fc5a6b6f,2023-06-23,8362,0,0,12,2025,16652,1,14,0,17714,2,2,0,0,0,9388,9388,9388,9388,9388,Clothing & Shoes,Youthful Shoes & Clothing
+9181baddf5de5f91980ed5120e9b58c5,2023-06-15,4497,0,0,6,2027,8820,2,221,0,0,6,7,0,0,0,2986,7557,9120,9943,12410,Clothing & Shoes,Youthful Shoes & Clothing
+1d01bb8e105d26002043b84af1d3e86f,2023-07-25,9892,0,0,12,2029,19784,1,0,9892,9892,0,0,0,0,0,0,0,0,0,0,Health & Beauty,Cosmetics
+4f19c6f9e34115726a7fd1e9eff285a3,2023-09-10,21185,0,0,6,2027,15662,2,503,7281,7281,4,12,0,0,0,4190,6559,8928,32589,38289,Clothing & Shoes,General Shoes & Clothing
+0c0016dd731731ab49adbe3f40acbc52,2023-08-31,9246,0,0,7,2027,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+4e76a0e3e7fc4b1c6414e499a2386086,2023-08-27,8275,0,0,12,2026,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+903e378d2e47699f48fb314804cbacec,2023-10-18,12676,0,0,3,2031,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+59d4bb919293219a217feb21bc89d742,2023-08-08,2706,0,0,1,2027,4046,1,205,0,0,6,21,0,0,0,1011,2022,9194,28899,42284,Clothing & Shoes,General Shoes & Clothing
+87a307914e70bdc79328c1c39724bb95,2023-06-29,14180,0,0,6,2027,5034,1,907,0,0,3,5,0,0,0,2517,5033,7549,16629,63628,Clothing & Shoes,Youthful Shoes & Clothing
+deb085ccd32db67a419a2e1652405dcb,2023-07-16,18012,0,0,12,2023,0,0,607,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+8539fec7236496322caf834deacb7624,2023-07-01,5783,0,0,8,2027,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Jewelry & Accessories,Jewelry & Watches
+f56efeaeb36f43f473a61321b08bd2f7,2023-08-20,36038,0,0,4,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+612ccbcad72bfe90e40036a334201824,2023-10-16,17720,0,0,10,2028,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Intangible products,Event - Broker & Agencies
+49073c83782de8e1dd96897b78ca6c07,2023-07-30,14412,0,0,12,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Youthful Shoes & Clothing
+d84f649028640bfc11bdfd5d99e30421,2023-08-10,4710,0,0,7,2027,0,0,46,0,0,3,3,2,2,2,13910,13910,41266,41266,41266,Clothing & Shoes,General Shoes & Clothing
+9579d03059ba2ba0d2e9bacfbca9b0ad,2023-08-09,12690,0,0,2,2030,35614,4,544,0,14926,15,27,0,0,0,10342,16951,35427,63373,108955,Health & Beauty,Cosmetics
+9a3c576c96c655fef71177508bb58742,2023-07-18,15506,0,0,5,2026,10376,2,658,15506,31122,17,18,0,0,0,34670,41331,59370,61635,61635,Clothing & Shoes,General Shoes & Clothing
+68862c4a1cb08f7108f18a4c55338084,2023-08-29,11386,0,0,11,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,"Leisure, Sport & Hobby",Sports Gear & Outdoor
+12693e8f348833b192a636137a7fbc90,2023-07-24,17598,0,0,11,2024,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,General Shoes & Clothing
+34c4478f1874b8ce643ec20deeb9e5f4,2023-06-11,5800,0,0,9,2024,0,0,646,0,0,4,10,0,0,0,0,0,16468,45005,68293,Electronics,Electronic Equipment & Related Accessories
+c3af91996be1fbb9bf1d9eb8a8bb0e2a,2023-07-12,23270,0,0,12,2023,,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,Clothing & Shoes,Adult Shoes & Clothing
+86852cc998a4112e94f0bacd181b07f8,2023-06-06,6559,0,0,11,2027,0,0,548,0,0,9,9,0,0,0,0,3144,29383,29383,29383,Clothing & Shoes,General Shoes & Clothing
+6f931c4b9df0b39e022577bca15d8c15,2023-10-03,4280,0,0,2,2024,0,0,943,0,0,0,0,0,0,0,0,0,0,0,0,Health & Beauty,Body & Haircare
