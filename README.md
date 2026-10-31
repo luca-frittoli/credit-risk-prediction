@@ -6,7 +6,7 @@ A small machine learning project that predicts the probability of default on a *
 
 A Pay Later loan lets consumers pay for a purchase 14 days after buying it. Customers who have not paid by then get a reminder and 7 more days. A loan still unpaid after 21 days goes to debt collection, and this counts as a **default**.
 
-The goal is a model that estimates the probability of default for each new loan. The Underwriting team uses these probabilities to accept or decline transactions and to choose how much credit risk to take. The full case description is in [`docs/case_description.md`](docs/case_description).
+The goal is a model that estimates the probability of default for each new loan. The Underwriting team uses these probabilities to accept or decline transactions and to choose how much credit risk to take. The full case description is in [`docs/case_description.md`](docs/case_description.md).
 
 ## Proposed solution
 
