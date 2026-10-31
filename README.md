@@ -25,7 +25,7 @@ The model uses four features:
 | `num_confirmed_payments_6m` | int | Repayments made in the 6 months before the loan |
 | `num_failed_payments_1y` | int | Repayments missed in the year before the loan |
 
-The full reasoning, results table and next steps are in the one-page report [`docs/case_study_report.md`](docs/case_study_report). My data exploration and model selection is in  [`notebooks/analysis.ipynb`](notebooks/analysis)
+The full reasoning, results table and next steps are in the one-page report [`docs/case_study_report.md`](docs/case_study_report.md). My data exploration and model selection is in  [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb)
 
 ## Project structure
 
